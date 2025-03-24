@@ -8,6 +8,29 @@
 
 This project focuses on using image recogonition techinques to identify different types of waste products, helping imporve recycling processes. We utilized the YOLOv9 model for object detection and created a front-end interface using Streamlit to allow live recognition using a web camera.
 
+## About
+You can find here the link to the recorded presentation
+
+https://projects.lewagon.com/projects/recycling-reimagined
+
+![architecture](images/image.png)
+<br>
+Architecture
+<br>
+<br>
+<br>
+![set-up](images/image-1.png)
+<br>
+Facility representation setup
+<br>
+<br>
+<br>
+![labeling](images/image-2.png)
+<br>
+Manual labeling demo
+<br>
+<br>
+<br>
 
 ## Features:
 + Waste product image recognition using **YOLOv9**
